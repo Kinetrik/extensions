@@ -4,7 +4,7 @@ module.exports = {
         - Author: Great Plains Modding
         - Version: 1.0.0
         - GitHub: https://github.com/greatplainsmodding
-        - Description: Contains multiple stuff needed for my mods / extensions / events.
+        - Description: Contains multiple stuff kinetrik for my mods / extensions / events.
     */
 
     authors: ["Great Plains Modding"],
